@@ -4,7 +4,9 @@ This repository contains the source code for a Twitter (X) clone built using Tai
 
 ## Live Demo
 
-Check out the live demo of the project [here](screenshots/livedemo.mp4).
+Check out the live demo of the project 
+
+https://github.com/user-attachments/assets/0e37d344-f885-4ddf-813a-2af5c61d583e
 
 ## Features
 
